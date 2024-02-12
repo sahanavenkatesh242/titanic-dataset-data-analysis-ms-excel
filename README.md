@@ -99,13 +99,13 @@ This infers that the female count was more concerned with survival, and who had 
 
 Steps involved in creating/merging 2 histograms in one:
       - Create a pivot table and drag age into the row and value column 
-      - Cnvert the value into count 
-      - Select the first values from the pivot table and the analyse tab, select the group selection, and decide the bin 
+      - Convert the value into a count 
+      - Select the first values from the pivot table and the analyze tab, select the group selection, and decide the bin 
       - Then the data in the pivot table is been grouped 
       - Now add the next variable(sex) into the columns 
       - Now we can see the range of distribution from the pivot table 
       - Draw a bar chart and change the specifications from the color and border 
-      - Select anyone bar and right click and select format data series
+      - Select anyone bar and right-click and select format data series
       - Series overlap increase and gap width decrease
 
   ![image](https://github.com/sahanavenkatesh242/titanic-dataset-data-analysis-ms-excel/assets/157820520/7cb22244-84a2-44a4-8ba8-35145f6bc928)

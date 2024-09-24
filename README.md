@@ -1,4 +1,4 @@
-# titanic-dataset-data-analysis-ms-excel
+# Titanic-dataset-data-analysis-ms-excel
 
 INTRODUCTION
 
